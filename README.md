@@ -1,4 +1,6 @@
-Se utilizo grid para el nav, el aside y el main, dentor del main se utilizo flex 
+Se utilizo grid para el nav, el aside y el main
+
+dentro del nav,aside y main se utilizo flex 
 
 
 cada cuadricula de video lo lleva al video original, como tambien si clickea el perfil de la persona lo redigira hacia el.
